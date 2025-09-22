@@ -5,6 +5,6 @@
 ---
 Using the Youtube playlist -> [Turtle code](https://www.youtube.com/playlist?list=PLMi6KgK4_mk1xZc45zEBxlByLhpbJK2Uy)  
 
-## Lessons Completed (1/47)
+## Lessons Completed (2/47)
 1. [X] Getting Started - Python NiceGUI Tutorial 1
 2. [X] Text Elements - Python NiceGUI Tutorial 2
